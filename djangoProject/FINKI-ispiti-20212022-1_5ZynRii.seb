@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>originatorVersion</key>
+    <string>SEB_Win_2.1.1</string>
+    <key>startURL</key>
+    <string>https://ispiti.finki.ukim.mk/</string>
+    <key>startResource</key>
+    <string />
+    <key>sebServerURL</key>
+    <string />
+    <key>hashedAdminPassword</key>
+    <string>97616F60E099535D92E506589C44CF03D81F2A2672D71B2B44228E4B38C5C1C6</string>
+    <key>allowQuit</key>
+    <true />
+    <key>ignoreExitKeys</key>
+    <true />
+    <key>hashedQuitPassword</key>
+    <string />
+    <key>exitKey1</key>
+    <integer>2</integer>
+    <key>exitKey2</key>
+    <integer>10</integer>
+    <key>exitKey3</key>
+    <integer>5</integer>
+    <key>sebMode</key>
+    <integer>0</integer>
+    <key>browserMessagingSocket</key>
+    <string>ws://localhost:8706</string>
+    <key>browserMessagingPingTime</key>
+    <integer>120000</integer>
+    <key>sebConfigPurpose</key>
+    <integer>0</integer>
+    <key>allowPreferencesWindow</key>
+    <true />
+    <key>useAsymmetricOnlyEncryption</key>
+    <false />
+    <key>browserViewMode</key>
+    <integer>0</integer>
+    <key>mainBrowserWindowWidth</key>
+    <string>100%</string>
+    <key>mainBrowserWindowHeight</key>
+    <string>100%</string>
+    <key>mainBrowserWindowPositioning</key>
+    <integer>1</integer>
+    <key>enableBrowserWindowToolbar</key>
+    <false />
+    <key>hideBrowserWindowToolbar</key>
+    <false />
+    <key>showMenuBar</key>
+    <false />
+    <key>showTaskBar</key>
+    <true />
+    <key>taskBarHeight</key>
+    <integer>40</integer>
+    <key>touchOptimized</key>
+    <false />
+    <key>enableZoomText</key>
+    <true />
+    <key>enableZoomPage</key>
+    <true />
+    <key>zoomMode</key>
+    <integer>0</integer>
+    <key>allowSpellCheck</key>
+    <false />
+    <key>allowDictionaryLookup</key>
+    <false />
+    <key>allowSpellCheckDictionary</key>
+    <array></array>
+    <key>additionalDictionaries</key>
+    <array></array>
+    <key>showReloadButton</key>
+    <true />
+    <key>showTime</key>
+    <true />
+    <key>showInputLanguage</key>
+    <true />
+    <key>enableTouchExit</key>
+    <false />
+    <key>oskBehavior</key>
+    <integer>2</integer>
+    <key>audioControlEnabled</key>
+    <true />
+    <key>audioMute</key>
+    <false />
+    <key>audioVolumeLevel</key>
+    <integer>25</integer>
+    <key>audioSetVolumeLevel</key>
+    <false />
+    <key>browserScreenKeyboard</key>
+    <false />
+    <key>newBrowserWindowByLinkPolicy</key>
+    <integer>2</integer>
+    <key>newBrowserWindowByScriptPolicy</key>
+    <integer>2</integer>
+    <key>newBrowserWindowByLinkBlockForeign</key>
+    <true />
+    <key>newBrowserWindowByScriptBlockForeign</key>
+    <false />
+    <key>newBrowserWindowByLinkWidth</key>
+    <string>1000</string>
+    <key>newBrowserWindowByLinkHeight</key>
+    <string>100%</string>
+    <key>newBrowserWindowByLinkPositioning</key>
+    <integer>2</integer>
+    <key>enablePlugIns</key>
+    <true />
+    <key>enableJava</key>
+    <false />
+    <key>enableJavaScript</key>
+    <true />
+    <key>blockPopUpWindows</key>
+    <false />
+    <key>allowVideoCapture</key>
+    <true />
+    <key>allowAudioCapture</key>
+    <true />
+    <key>allowBrowsingBackForward</key>
+    <false />
+    <key>newBrowserWindowNavigation</key>
+    <true />
+    <key>removeBrowserProfile</key>
+    <false />
+    <key>removeLocalStorage</key>
+    <false />
+    <key>enableSebBrowser</key>
+    <true />
+    <key>browserWindowAllowReload</key>
+    <true />
+    <key>newBrowserWindowAllowReload</key>
+    <true />
+    <key>showReloadWarning</key>
+    <true />
+    <key>newBrowserWindowShowReloadWarning</key>
+    <false />
+    <key>browserUserAgentWinDesktopMode</key>
+    <integer>0</integer>
+    <key>browserUserAgentWinDesktopModeCustom</key>
+    <string />
+    <key>browserUserAgentWinTouchMode</key>
+    <integer>0</integer>
+    <key>browserUserAgentWinTouchModeIPad</key>
+    <string>Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.3 Mobile/15E216 Safari/605.1.15</string>
+    <key>browserUserAgentWinTouchModeCustom</key>
+    <string />
+    <key>browserUserAgent</key>
+    <string />
+    <key>browserUserAgentMac</key>
+    <integer>0</integer>
+    <key>browserUserAgentMacCustom</key>
+    <string />
+    <key>browserWindowTitleSuffix</key>
+    <string />
+    <key>allowDownUploads</key>
+    <true />
+    <key>downloadDirectoryOSX</key>
+    <string>~/Downloads</string>
+    <key>downloadDirectoryWin</key>
+    <string />
+    <key>openDownloads</key>
+    <false />
+    <key>chooseFileToUploadPolicy</key>
+    <integer>0</integer>
+    <key>downloadPDFFiles</key>
+    <false />
+    <key>allowPDFPlugIn</key>
+    <false />
+    <key>downloadAndOpenSebConfig</key>
+    <true />
+    <key>backgroundOpenSEBConfig</key>
+    <false />
+    <key>examKeySalt</key>
+    <data>kRcziebF7xGUjwH4fOuIzzSjykojmiJULspnwdRWr50=</data>
+    <key>browserExamKey</key>
+    <string />
+    <key>browserURLSalt</key>
+    <true />
+    <key>sendBrowserExamKey</key>
+    <true />
+    <key>quitURL</key>
+    <string />
+    <key>quitURLConfirm</key>
+    <true />
+    <key>restartExamURL</key>
+    <string />
+    <key>restartExamUseStartURL</key>
+    <true />
+    <key>restartExamText</key>
+    <string />
+    <key>restartExamPasswordProtected</key>
+    <false />
+    <key>additionalResources</key>
+    <array>
+      <dict>
+        <key>identifier</key>
+        <string>0</string>
+        <key>additionalResources</key>
+        <array></array>
+        <key>active</key>
+        <true />
+        <key>autoOpen</key>
+        <false />
+        <key>resourceIcons</key>
+        <array>
+          <dict>
+            <key>iconData</key>
+            <string>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</string>
+            <key>format</key>
+            <string>png</string>
+          </dict>
+        </array>
+        <key>title</key>
+        <string>Ispiti-Video</string>
+        <key>url</key>
+        <string>https://ispiti.finki.ukim.mk/</string>
+        <key>URLFilterRules</key>
+        <array>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://cas.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-2.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-lb.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-3.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-4.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-5.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-6.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-7.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-8.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://kurento.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-9.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-10.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-11.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-12.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-13.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-14.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-15.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-16.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-17.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-18.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-19.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-20.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://turn.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-lb.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-1.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-2.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-3.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-4.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-5.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-6.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-7.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-8.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-9.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-10.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-11.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-12.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-13.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-14.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-15.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-16.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-17.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-18.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-19.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://bbb-20.ispiti.finki.ukim.mk/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>active</key>
+            <true />
+            <key>regex</key>
+            <true />
+            <key>expression</key>
+            <string>https://cdnjs.cloudflare.com/*</string>
+            <key>action</key>
+            <integer>1</integer>
+          </dict>
+        </array>
+        <key>resourceData</key>
+        <string />
+        <key>resourceDataFilename</key>
+        <string />
+        <key>resourceDataLauncher</key>
+        <integer>0</integer>
+        <key>linkURL</key>
+        <string />
+        <key>refererFilter</key>
+        <string />
+        <key>resetSession</key>
+        <false />
+        <key>key</key>
+        <string />
+        <key>modifiers</key>
+        <string />
+        <key>confirm</key>
+        <false />
+        <key>confirmText</key>
+        <string />
+        <key>showButton</key>
+        <true />
+      </dict>
+    </array>
+    <key>monitorProcesses</key>
+    <true />
+    <key>allowSwitchToApplications</key>
+    <false />
+    <key>allowFlashFullscreen</key>
+    <false />
+    <key>permittedProcesses</key>
+    <array>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>autostart</key>
+        <true />
+        <key>iconInTaskbar</key>
+        <true />
+        <key>runInBackground</key>
+        <false />
+        <key>allowUserToChooseApp</key>
+        <false />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>title</key>
+        <string>SEB</string>
+        <key>description</key>
+        <string />
+        <key>executable</key>
+        <string>firefox.exe</string>
+        <key>originalName</key>
+        <string>firefox.exe</string>
+        <key>path</key>
+        <string>../xulrunner/</string>
+        <key>identifier</key>
+        <string>Firefox</string>
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>arguments</key>
+        <array></array>
+      </dict>
+    </array>
+    <key>prohibitedProcesses</key>
+    <array>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Riot</string>
+        <key>originalName</key>
+        <string>Riot</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>seamonkey</string>
+        <key>originalName</key>
+        <string>seamonkey</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Discord</string>
+        <key>originalName</key>
+        <string>Discord</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Slack</string>
+        <key>originalName</key>
+        <string>Slack</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Teams</string>
+        <key>originalName</key>
+        <string>Teams</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>CamRecorder</string>
+        <key>originalName</key>
+        <string>CamRecorder</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>join.me</string>
+        <key>originalName</key>
+        <string>join.me</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>RPCSuite</string>
+        <key>originalName</key>
+        <string>RPCSuite</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>RPCService</string>
+        <key>originalName</key>
+        <string>RPCService</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>RemotePCDesktop</string>
+        <key>originalName</key>
+        <string>RemotePCDesktop</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>beamyourscreen-host</string>
+        <key>originalName</key>
+        <string>beamyourscreen-host</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>AeroAdmin</string>
+        <key>originalName</key>
+        <string>AeroAdmin</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Mikogo-host</string>
+        <key>originalName</key>
+        <string>Mikogo-host</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>chromoting</string>
+        <key>originalName</key>
+        <string>chromoting</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>vncserverui</string>
+        <key>originalName</key>
+        <string>vncserverui</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>vncviewer</string>
+        <key>originalName</key>
+        <string>vncviewer</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>vncserver</string>
+        <key>originalName</key>
+        <string>vncserver</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>TeamViewer</string>
+        <key>originalName</key>
+        <string>TeamViewer</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>GotoMeetingWinStore</string>
+        <key>originalName</key>
+        <string>GotoMeetingWinStore</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>g2mcomm.exe</string>
+        <key>originalName</key>
+        <string>g2mcomm.exe</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>SkypeHost</string>
+        <key>originalName</key>
+        <string>SkypeHost</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>currentUser</key>
+        <true />
+        <key>strongKill</key>
+        <false />
+        <key>os</key>
+        <integer>1</integer>
+        <key>executable</key>
+        <string>Skype</string>
+        <key>originalName</key>
+        <string>Skype</string>
+        <key>description</key>
+        <string />
+        <key>identifier</key>
+        <string />
+        <key>windowHandlingProcess</key>
+        <string />
+        <key>user</key>
+        <string />
+      </dict>
+    </array>
+    <key>enableURLFilter</key>
+    <false />
+    <key>enableURLContentFilter</key>
+    <false />
+    <key>URLFilterRules</key>
+    <array>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://cas.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-2.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-3.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-4.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-5.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-6.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-7.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-8.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-lb.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://cdnjs.cloudflare.com/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://kurento.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-9.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-10.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-11.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-12.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-13.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-14.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-15.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-16.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-17.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-18.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-19.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-20.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://turn.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-lb.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-1.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-2.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-3.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-4.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-5.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-6.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-7.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-8.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-9.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-10.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-11.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-12.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-13.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-14.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-15.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-16.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-17.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-18.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-19.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>active</key>
+        <true />
+        <key>regex</key>
+        <true />
+        <key>expression</key>
+        <string>https://bbb-20.ispiti.finki.ukim.mk/*</string>
+        <key>action</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>URLFilterEnable</key>
+    <true />
+    <key>URLFilterEnableContentFilter</key>
+    <true />
+    <key>blacklistURLFilter</key>
+    <string />
+    <key>whitelistURLFilter</key>
+    <string>https://cas.finki.ukim.mk/*;https://ispiti.finki.ukim.mk/*;https://bbb-2.finki.ukim.mk/*;https://bbb.finki.ukim.mk/*;https://bbb-3.finki.ukim.mk/*;https://bbb-4.finki.ukim.mk/*;https://bbb-5.finki.ukim.mk/*;https://bbb-6.finki.ukim.mk/*;https://bbb-7.finki.ukim.mk/*;https://bbb-8.finki.ukim.mk/*;https://bbb-lb.finki.ukim.mk/*;https://cdnjs.cloudflare.com/*;https://kurento.finki.ukim.mk/*;https://bbb-9.finki.ukim.mk/*;https://bbb-10.finki.ukim.mk/*;https://bbb-11.finki.ukim.mk/*;https://bbb-12.finki.ukim.mk/*;https://bbb-13.finki.ukim.mk/*;https://bbb-14.finki.ukim.mk/*;https://bbb-15.finki.ukim.mk/*;https://bbb-16.finki.ukim.mk/*;https://bbb-17.finki.ukim.mk/*;https://bbb-18.finki.ukim.mk/*;https://bbb-19.finki.ukim.mk/*;https://bbb-20.finki.ukim.mk/*;https://turn.finki.ukim.mk/*;https://bbb-lb.ispiti.finki.ukim.mk/*;https://bbb-1.ispiti.finki.ukim.mk/*;https://bbb-2.ispiti.finki.ukim.mk/*;https://bbb-3.ispiti.finki.ukim.mk/*;https://bbb-4.ispiti.finki.ukim.mk/*;https://bbb-5.ispiti.finki.ukim.mk/*;https://bbb-6.ispiti.finki.ukim.mk/*;https://bbb-7.ispiti.finki.ukim.mk/*;https://bbb-8.ispiti.finki.ukim.mk/*;https://bbb-9.ispiti.finki.ukim.mk/*;https://bbb-10.ispiti.finki.ukim.mk/*;https://bbb-11.ispiti.finki.ukim.mk/*;https://bbb-12.ispiti.finki.ukim.mk/*;https://bbb-13.ispiti.finki.ukim.mk/*;https://bbb-14.ispiti.finki.ukim.mk/*;https://bbb-15.ispiti.finki.ukim.mk/*;https://bbb-16.ispiti.finki.ukim.mk/*;https://bbb-17.ispiti.finki.ukim.mk/*;https://bbb-18.ispiti.finki.ukim.mk/*;https://bbb-19.ispiti.finki.ukim.mk/*;https://bbb-20.ispiti.finki.ukim.mk/*;https://ispiti.finki.ukim.mk/*;https://cas.finki.ukim.mk/*;https://bbb-2.finki.ukim.mk/*;https://bbb.finki.ukim.mk/*;https://bbb-lb.finki.ukim.mk/*;https://bbb-3.finki.ukim.mk/*;https://bbb-4.finki.ukim.mk/*;https://bbb-5.finki.ukim.mk/*;https://bbb-6.finki.ukim.mk/*;https://bbb-7.finki.ukim.mk/*;https://bbb-8.finki.ukim.mk/*;https://kurento.finki.ukim.mk/*;https://bbb-9.finki.ukim.mk/*;https://bbb-10.finki.ukim.mk/*;https://bbb-11.finki.ukim.mk/*;https://bbb-12.finki.ukim.mk/*;https://bbb-13.finki.ukim.mk/*;https://bbb-14.finki.ukim.mk/*;https://bbb-15.finki.ukim.mk/*;https://bbb-16.finki.ukim.mk/*;https://bbb-17.finki.ukim.mk/*;https://bbb-18.finki.ukim.mk/*;https://bbb-19.finki.ukim.mk/*;https://bbb-20.finki.ukim.mk/*;https://turn.finki.ukim.mk/*;https://bbb-lb.ispiti.finki.ukim.mk/*;https://bbb-1.ispiti.finki.ukim.mk/*;https://bbb-2.ispiti.finki.ukim.mk/*;https://bbb-3.ispiti.finki.ukim.mk/*;https://bbb-4.ispiti.finki.ukim.mk/*;https://bbb-5.ispiti.finki.ukim.mk/*;https://bbb-6.ispiti.finki.ukim.mk/*;https://bbb-7.ispiti.finki.ukim.mk/*;https://bbb-8.ispiti.finki.ukim.mk/*;https://bbb-9.ispiti.finki.ukim.mk/*;https://bbb-10.ispiti.finki.ukim.mk/*;https://bbb-11.ispiti.finki.ukim.mk/*;https://bbb-12.ispiti.finki.ukim.mk/*;https://bbb-13.ispiti.finki.ukim.mk/*;https://bbb-14.ispiti.finki.ukim.mk/*;https://bbb-15.ispiti.finki.ukim.mk/*;https://bbb-16.ispiti.finki.ukim.mk/*;https://bbb-17.ispiti.finki.ukim.mk/*;https://bbb-18.ispiti.finki.ukim.mk/*;https://bbb-19.ispiti.finki.ukim.mk/*;https://bbb-20.ispiti.finki.ukim.mk/*;https://cdnjs.cloudflare.com/*</string>
+    <key>urlFilterTrustedContent</key>
+    <false />
+    <key>urlFilterRegex</key>
+    <true />
+    <key>embeddedCertificates</key>
+    <array></array>
+    <key>pinEmbeddedCertificates</key>
+    <false />
+    <key>proxySettingsPolicy</key>
+    <integer>0</integer>
+    <key>proxies</key>
+    <dict>
+      <key>ExceptionsList</key>
+      <array></array>
+      <key>ExcludeSimpleHostnames</key>
+      <false />
+      <key>AutoDiscoveryEnabled</key>
+      <false />
+      <key>AutoConfigurationEnabled</key>
+      <false />
+      <key>AutoConfigurationJavaScript</key>
+      <string />
+      <key>AutoConfigurationURL</key>
+      <string />
+      <key>FTPPassive</key>
+      <true />
+      <key>HTTPEnable</key>
+      <false />
+      <key>HTTPPort</key>
+      <integer>80</integer>
+      <key>HTTPProxy</key>
+      <string />
+      <key>HTTPRequiresPassword</key>
+      <false />
+      <key>HTTPUsername</key>
+      <string />
+      <key>HTTPPassword</key>
+      <string />
+      <key>HTTPSEnable</key>
+      <false />
+      <key>HTTPSPort</key>
+      <integer>443</integer>
+      <key>HTTPSProxy</key>
+      <string />
+      <key>HTTPSRequiresPassword</key>
+      <false />
+      <key>HTTPSUsername</key>
+      <string />
+      <key>HTTPSPassword</key>
+      <string />
+      <key>FTPEnable</key>
+      <false />
+      <key>FTPPort</key>
+      <integer>21</integer>
+      <key>FTPProxy</key>
+      <string />
+      <key>FTPRequiresPassword</key>
+      <false />
+      <key>FTPUsername</key>
+      <string />
+      <key>FTPPassword</key>
+      <string />
+      <key>SOCKSEnable</key>
+      <false />
+      <key>SOCKSPort</key>
+      <integer>1080</integer>
+      <key>SOCKSProxy</key>
+      <string />
+      <key>SOCKSRequiresPassword</key>
+      <false />
+      <key>SOCKSUsername</key>
+      <string />
+      <key>SOCKSPassword</key>
+      <string />
+      <key>RTSPEnable</key>
+      <false />
+      <key>RTSPPort</key>
+      <integer>554</integer>
+      <key>RTSPProxy</key>
+      <string />
+      <key>RTSPRequiresPassword</key>
+      <false />
+      <key>RTSPUsername</key>
+      <string />
+      <key>RTSPPassword</key>
+      <string />
+    </dict>
+    <key>sebServicePolicy</key>
+    <integer>1</integer>
+    <key>allowVirtualMachine</key>
+    <false />
+    <key>allowScreenSharing</key>
+    <false />
+    <key>enablePrivateClipboard</key>
+    <true />
+    <key>createNewDesktop</key>
+    <true />
+    <key>killExplorerShell</key>
+    <false />
+    <key>enableLogging</key>
+    <true />
+    <key>logDirectoryOSX</key>
+    <string>~/Documents</string>
+    <key>logDirectoryWin</key>
+    <string />
+    <key>allowWlan</key>
+    <false />
+    <key>lockOnMessageSocketClose</key>
+    <true />
+    <key>minMacOSVersion</key>
+    <integer>4</integer>
+    <key>enableAppSwitcherCheck</key>
+    <true />
+    <key>forceAppFolderInstall</key>
+    <true />
+    <key>allowUserAppFolderInstall</key>
+    <false />
+    <key>allowSiri</key>
+    <false />
+    <key>allowDictation</key>
+    <false />
+    <key>detectStoppedProcess</key>
+    <true />
+    <key>allowDisplayMirroring</key>
+    <false />
+    <key>allowedDisplaysMaxNumber</key>
+    <integer>1</integer>
+    <key>allowedDisplayBuiltin</key>
+    <true />
+    <key>insideSebEnableSwitchUser</key>
+    <false />
+    <key>insideSebEnableLockThisComputer</key>
+    <false />
+    <key>insideSebEnableChangeAPassword</key>
+    <false />
+    <key>insideSebEnableStartTaskManager</key>
+    <false />
+    <key>insideSebEnableLogOff</key>
+    <false />
+    <key>insideSebEnableShutDown</key>
+    <false />
+    <key>insideSebEnableEaseOfAccess</key>
+    <false />
+    <key>insideSebEnableVmWareClientShade</key>
+    <false />
+    <key>insideSebEnableEnableNetworkConnectionSelector</key>
+    <false />
+    <key>hookKeys</key>
+    <true />
+    <key>enableEsc</key>
+    <true />
+    <key>enableCtrlEsc</key>
+    <false />
+    <key>enableAltEsc</key>
+    <false />
+    <key>enableAltTab</key>
+    <false />
+    <key>enableAltF4</key>
+    <false />
+    <key>enableStartMenu</key>
+    <false />
+    <key>enableRightMouse</key>
+    <true />
+    <key>enablePrintScreen</key>
+    <false />
+    <key>enableAltMouseWheel</key>
+    <false />
+    <key>enableF1</key>
+    <true />
+    <key>enableF2</key>
+    <true />
+    <key>enableF3</key>
+    <true />
+    <key>enableF4</key>
+    <true />
+    <key>enableF5</key>
+    <true />
+    <key>enableF6</key>
+    <true />
+    <key>enableF7</key>
+    <true />
+    <key>enableF8</key>
+    <true />
+    <key>enableF9</key>
+    <true />
+    <key>enableF10</key>
+    <true />
+    <key>enableF11</key>
+    <true />
+    <key>enableF12</key>
+    <true />
+    <key>examSessionClearCookiesOnEnd</key>
+    <true />
+    <key>examSessionClearCookiesOnStart</key>
+    <true />
+  </dict>
+</plist>
